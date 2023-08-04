@@ -1,8 +1,10 @@
 import React from "react";
-import { Pets } from "./components/pets/Pets";
+
 
 const App = () => {
-  return <Pets />;
+  return (
+  <div>Hello World</div>
+  )
 };
 
 export default App;
